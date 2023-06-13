@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="pointers.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="testPointers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pointers.h" />
